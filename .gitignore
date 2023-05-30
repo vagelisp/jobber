@@ -1,0 +1,10 @@
+ai1wm-backups
+languages
+upgrade
+uploads
+index.php
+debug.log
+plugins/*
+!plugins/v-invoice
+themes/*
+!themes/taskhive
